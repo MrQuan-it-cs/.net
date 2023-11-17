@@ -13,7 +13,7 @@ namespace frmDangKy_va_frmSanPham
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSideBar());
+            Application.Run(new frmOrder());
         }
     }
 }
